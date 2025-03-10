@@ -1,4 +1,4 @@
-package com.land.load.rent.rental.main;
+package com.land.load.rent.rental;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
